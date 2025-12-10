@@ -1,0 +1,4 @@
+var a=(100*10)/10;
+print nil;
+print 8*10;
+print (100*10)/10;
